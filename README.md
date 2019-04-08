@@ -39,11 +39,16 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 - Feel inclined to share your ideas, this is a space for exploration
 - Share in whatever capacity you are able, code isn't the only way to contribute
 - Have fun
+- Make sure to read [Web Component Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 
 *<sup>1</sup> Specifically, this is referring to Open Source licenses with special patent clauses. No proprietary/copyright content.*
 
 [ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
 
+## Resources
+
+- [Web Components The Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - Awesome list of Web Component resources
+- [open-wc](https://www.open-wc.org) - Set of defaults and recommendations to get started writing Web Components, anything from linting, testing, building, automating and demoing.
 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
