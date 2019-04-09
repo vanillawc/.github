@@ -43,12 +43,18 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 
 *<sup>1</sup> Specifically, this is referring to Open Source licenses with special patent clauses. No proprietary/copyright content.*
 
-[ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
 
-## Resources
+## Resources
 
-- [Web Components The Right Way](https://github.com/mateusortiz/webcomponents-the-right-way) - Awesome list of Web Component resources
-- [open-wc](https://www.open-wc.org) - Set of defaults and recommendations to get started writing Web Components, anything from linting, testing, building, automating and demoing.
+- [Web Components The Right Way][] - Awesome list of Web Component resources
+- [open-wc][] - Set of defaults and recommendations to get started writing Web Components, anything from linting, testing, building, automating and demoing.
 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
+<!-- links -->
+
+[ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
+[Web Components The Right Way]: https://github.com/mateusortiz/webcomponents-the-right-way
+[open-wc]: https://www.open-wc.org
