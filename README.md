@@ -32,21 +32,22 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 **DO**
 
 - Prefix your WC repos with `wc-`
-- Encapsulate your code WCs wherever possible.
+- Encapsulate your code WCs wherever possible
 - Build your components for maximum reuse
 - Support Accessibility wherever possible
 - Choose copyleft-friendly licenses<sup>1</sup>
 - Feel inclined to share your ideas, this is a space for exploration
 - Share in whatever capacity you are able, code isn't the only way to contribute
+- Make sure to read [Web Component Best Practices][]
 - Have fun
-- Make sure to read [Web Component Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 
-*<sup>1</sup> Specifically, this is referring to Open Source licenses with special patent clauses. No proprietary/copyright content.*
+*<sup>1</sup> Specifically, avoid Open Source licenses with special patent clauses. No proprietary/copyright content. When in doubt, use MIT.*
 
 
 ## Resources
 
-- [Web Components The Right Way][] - Awesome list of Web Component resources
+- [WebComponents.org][] - Community resource for finding and learning about Web Components.
+- [Web Components The Right Way][] - Awesome list of Web Component resources.
 - [open-wc][] - Set of defaults and recommendations to get started writing Web Components, anything from linting, testing, building, automating and demoing.
 
 
@@ -56,5 +57,7 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 <!-- links -->
 
 [ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
+[WebComponents.org]: https://www.webcomponents.org/
+[Web Componentns Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
 [Web Components The Right Way]: https://github.com/mateusortiz/webcomponents-the-right-way
 [open-wc]: https://www.open-wc.org
