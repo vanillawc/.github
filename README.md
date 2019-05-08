@@ -46,11 +46,12 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 
 ## Resources
 
+- [Building Web Components with Vanilla Javascript]: A primer on building vanilla web components by Ali Spittel
 - [Web Components Interoperability Lab][]: Demonstrations of how Web Componets can be integrated with common frameworks
 - [Web Components: From Zero to Hero][]: An introduction to writing raw web components
 - [WebComponents.org][] - Community resource for finding and learning about Web Components.
 - [Web Components The Right Way][] - Awesome list of Web Component resources.
-- [open-wc][] - Set of defaults and recommendations to get started writing Web Components, anything from linting, testing, building, automating and demoing.
+- [Open-WC.org][] - Set of defaults and recommendations to get started writing Web Components, anything from linting, testing, building, automating and demoing.
 
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
@@ -59,9 +60,10 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 <!-- links -->
 
 [ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
+[Building Web Components with Vanilla Javascript]: https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho
 [Web Components Interoperability Lab]: https://glitch.com/@sergicontre/web-components-interoperability-lab
 [Web Components: From Zero to Hero]: https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m
 [WebComponents.org]: https://www.webcomponents.org/
 [Web Componentns Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
 [Web Components The Right Way]: https://github.com/mateusortiz/webcomponents-the-right-way
-[open-wc]: https://www.open-wc.org
+[Open-WC]: https://www.open-wc.org
