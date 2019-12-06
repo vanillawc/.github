@@ -65,7 +65,7 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 ## Resources
 
 - [Building Web Components with Vanilla Javascript][]: A primer on building vanilla web components by Ali Spittel
-- [Web Components Interoperability Lab][]: Demonstrations of how Web Componets can be integrated with common frameworks
+- [Web Components Interoperability Lab][]: Demonstrations of how Web Components can be integrated with common frameworks
 - [Custom Elements Everywhere][]: Framework compatibility with standard Web Components
 - [Web Components: From Zero to Hero][]: An introduction to writing raw Web Components
 - [WebComponents.org][] - Community resource for finding and learning about Web Components
@@ -84,6 +84,6 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 [Custom Elements Everywhere]: https://custom-elements-everywhere.com/
 [Web Components: From Zero to Hero]: https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m
 [WebComponents.org]: https://www.webcomponents.org/
-[Web Componentns Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
+[Web Component Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
 [Web Components The Right Way]: https://github.com/mateusortiz/webcomponents-the-right-way
 [Open-WC.org]: https://www.open-wc.org
