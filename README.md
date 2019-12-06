@@ -1,3 +1,6 @@
+[![Published on WebComponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/author/vanillawc)
+
+
 ## Introduction
 
 Welcome to the vanilla Web Components (WC) organization. This is a collective of independent Open Source devs with one goal. To create, share, and promote the use of completely vanilla WC implementations.
