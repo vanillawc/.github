@@ -61,6 +61,8 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 
 *<sup>1</sup> Specifically, avoid Open Source licenses with special patent clauses. No proprietary/copyright content. When in doubt, use MIT.*
 
+[ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
+[Web Component Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
 
 ## Resources
 
@@ -72,18 +74,20 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 - [Web Components The Right Way][] - Awesome list of Web Component resources.
 - [Open-WC.org][] - Set of defaults and recommendations to get started writing Web Components, anything from linting, testing, building, automating and demoing.
 
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-
-<!-- links -->
-
-[ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
 [Building Web Components with Vanilla Javascript]: https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho
 [Web Components Interoperability Lab]: https://glitch.com/@sergicontre/web-components-interoperability-lab
 [Custom Elements Everywhere]: https://custom-elements-everywhere.com/
 [Web Components: From Zero to Hero]: https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m
 [WebComponents.org]: https://www.webcomponents.org/
-[Web Component Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
 [Web Components The Right Way]: https://github.com/mateusortiz/webcomponents-the-right-way
 [Open-WC.org]: https://www.open-wc.org
+
+## Licenses
+
+Source code is licensed under the [MIT][] license.
+
+All content, assets, and writing is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License]
+
+[MIT]: ./LICENSE
+[Creative Commons Attribution-ShareAlike 4.0 International License]: http://creativecommons.org/licenses/by-sa/4.0/
+
