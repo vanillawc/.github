@@ -1,5 +1,3 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
-
 ## Introduction
 
 Welcome to the vanilla Web Components (WC) organization. This is a collective of independent Open Source devs with one goal. To create, share, and promote the use of completely vanilla WC implementations.
