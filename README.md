@@ -68,4 +68,4 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 [WebComponents.org]: https://www.webcomponents.org/
 [Web Componentns Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
 [Web Components The Right Way]: https://github.com/mateusortiz/webcomponents-the-right-way
-[Open-WC]: https://www.open-wc.org
+[Open-WC.org]: https://www.open-wc.org
