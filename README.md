@@ -1,7 +1,4 @@
-# Vanilla Web Components
-
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
-
 
 ## Introduction
 
@@ -11,6 +8,29 @@ That means: no extra layers of abstraction between the WC spec and the implement
 
 If the criticisms of the WC v1 specification are true, that the API to develop vanilla WC is 'too low level', then this group exists to get low level and see what it's all about.
 
+## Components
+
+- [WC-Blink][] - A clone of the classic `<blink>` element
+- [WC-Bullet-Chain][] - A list with a fancy custom decorator
+- [WC-CodeMirror][] - Easily embed a CodeMirror editor
+- [WC-Demo][] - An web component for demoing other web components
+- [WC-Include][] - Import HTML from an external file
+- [WC-Markdown][] - Embed Markdown with optional syntax highlighting
+- [WC-Marquee][] - A clone of the classic `<marquee>` element
+- [WC-Monaco-Editor][] - Easily embed VSCode's Monaco editor
+- [WC-Social-Link][] - Add links to social profiles the easy way
+- [WC-Sortable-Table][] - A table element that sorts when a header is clicked
+
+[WC-Blink]: https://github.com/vanillawc/wc-blink
+[WC-Bullet-Chain]: https://github.com/vanillawc/wc-bullet-chain
+[WC-CodeMirror]: https://github.com/vanillawc/wc-codemirror
+[WC-Demo]: https://github.com/vanillawc/wc-demo
+[WC-Include]: https://github.com/vanillawc/wc-include
+[WC-Markdown]: https://github.com/vanillawc/wc-markdown
+[WC-Marquee]: https://github.com/vanillawc/wc-marquee
+[WC-Monaco-Editor]: https://github.com/vanillawc/wc-monaco-editor
+[WC-Social-Link]: https://github.com/vanillawc/wc-social-link
+[WC-Sortable-Table]: https://github.com/vanillawc/wc-sortable-table
 
 ## How to Contribute
 
