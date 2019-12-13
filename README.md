@@ -19,6 +19,7 @@ If the criticisms of the WC v1 specification are true, that the API to develop v
 - [WC-Markdown][] - Embed Markdown with optional syntax highlighting
 - [WC-Marquee][] - A clone of the classic `<marquee>` element
 - [WC-Monaco-Editor][] - Easily embed VSCode's Monaco editor
+- [WC-Resume][] - Embed `resume.json` content styled with a template
 - [WC-Social-Link][] - Add links to social profiles the easy way
 - [WC-Sortable-Table][] - A table element that sorts when a header is clicked
 
@@ -30,6 +31,7 @@ If the criticisms of the WC v1 specification are true, that the API to develop v
 [WC-Markdown]: https://github.com/vanillawc/wc-markdown
 [WC-Marquee]: https://github.com/vanillawc/wc-marquee
 [WC-Monaco-Editor]: https://github.com/vanillawc/wc-monaco-editor
+[WC-Resume]: https://github.com/vanillawc/wc-resume
 [WC-Social-Link]: https://github.com/vanillawc/wc-social-link
 [WC-Sortable-Table]: https://github.com/vanillawc/wc-sortable-table
 
