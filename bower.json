@@ -12,6 +12,7 @@
     "wc-blink": "vanillawc/wc-blink#^1.0.0",
     "wc-bullet-chain": "vanillawc/wc-bullet-chain#^1.0.0",
     "wc-codemirror": "vanillawc/wc-codemirror#^1.0.0",
+    "wc-csv-table": "vanillawc/wc-csv-table#^1.0.0",
     "wc-demo": "vanillawc/wc-demo#^1.0.0",
     "wc-include": "vanillawc/wc-include#^1.0.0",
     "wc-markdown": "vanillawc/wc-markdown#^1.0.0",

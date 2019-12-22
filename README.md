@@ -13,6 +13,7 @@ If the criticisms of the WC v1 specification are true, that the API to develop v
 
 - [WC-Blink][] - A clone of the classic `<blink>` element
 - [WC-Bullet-Chain][] - A list with a fancy custom decorator
+- [WC-CSV-Table][] - Create a table element from CSV data
 - [WC-CodeMirror][] - Easily embed a CodeMirror editor
 - [WC-Demo][] - An web component for demoing other web components
 - [WC-Include][] - Import HTML from an external file
@@ -27,6 +28,7 @@ If the criticisms of the WC v1 specification are true, that the API to develop v
 [WC-Blink]: https://github.com/vanillawc/wc-blink
 [WC-Bullet-Chain]: https://github.com/vanillawc/wc-bullet-chain
 [WC-CodeMirror]: https://github.com/vanillawc/wc-codemirror
+[WC-CSV-Table]: https://github.com/vanillawc/wc-csv-table
 [WC-Demo]: https://github.com/vanillawc/wc-demo
 [WC-Include]: https://github.com/vanillawc/wc-include
 [WC-Markdown]: https://github.com/vanillawc/wc-markdown
