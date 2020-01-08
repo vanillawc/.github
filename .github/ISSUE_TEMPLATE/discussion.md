@@ -4,26 +4,15 @@ about: Start a discussion
 title: ''
 labels: discussion
 assignees: ''
-
 ---
+<!-- briefly describe the focus of this discussion -->
 
-# <!-- add the title of the discussion here -->
+## Notes <!--(optional)-->
 
+<!-- compile useful notes, code samples, ideas from the comments here -->
 
-## Description
+## References <!--(optional)-->
 
-<!-- Include a brief description of this discussion's focus -->
-
-
-## Notes (optional)
-
-<!-- (optional) compile useful notes from the comments here -->
-
-
-## References (optional)
-
-<!-- add links to any relevant references here
-
+<!--
 - [link-name](linkurl) - link description
-
 -->
