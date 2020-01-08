@@ -24,6 +24,7 @@ If the criticisms of the WC v1 specification are true, that the API to develop v
 - [WC-Social-Card][] - Add social card metadata to inbound links
 - [WC-Social-Link][] - Add links to social profiles the easy way
 - [WC-Sortable-Table][] - A table element that sorts when a header is clicked
+- [WC-Template][] - HTML templating using tagged template literals
 
 [WC-Blink]: https://github.com/vanillawc/wc-blink
 [WC-Bullet-Chain]: https://github.com/vanillawc/wc-bullet-chain
@@ -38,6 +39,7 @@ If the criticisms of the WC v1 specification are true, that the API to develop v
 [WC-Social-Card]: https://github.com/vanillawc/wc-social-card
 [WC-Social-Link]: https://github.com/vanillawc/wc-social-link
 [WC-Sortable-Table]: https://github.com/vanillawc/wc-sortable-table
+[WC-Template]: https://github.com/vanillawc/wc-template
 
 ## How to Contribute
 
