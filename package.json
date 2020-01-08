@@ -1,13 +1,10 @@
 {
   "name": "vanillawc",
-  "version": "1.0.0",
   "description": "The main repo for the VanillaWC org",
   "keywords": [
     "web-components",
     "vanilla",
     "javascript"
   ],
-  "repository": "https://github.com/vanillawc/vanillawc/",
-  "license": "MIT",
-  "homepage": "https://github.com/vanillawc/vanillawc#readme"
+  "license": "(MIT OR CC-BY-SA-4.0)"
 }

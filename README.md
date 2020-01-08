@@ -95,10 +95,9 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 
 ## Licenses
 
-Source code is licensed under the [MIT][] license.
+This repository is dual-licensed
+- source code is licensed under the [MIT][] license
+- written content, and other assets (ex SVG) are licensed under the [CC-BY-SA-4.0][]
 
-All content, assets, and writing is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License]
-
-[MIT]: ./LICENSE
-[Creative Commons Attribution-ShareAlike 4.0 International License]: http://creativecommons.org/licenses/by-sa/4.0/
-
+[MIT]: ./LICENSE-MIT
+[CC-BY-SA-4.0]: ./LICENSE-CC-BY-SA
