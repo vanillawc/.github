@@ -1,29 +1,18 @@
 ---
 name: Proposal
-about: Propose an idea for a new WC
+about: Propose a new project for the org
 title: ''
 labels: proposal
 assignees: ''
-
 ---
+<!-- outline the scope and purpose of this project -->
 
-# <!-- add the name of the WC you're proposing -->
+## Notes <!--(optional)-->
 
+<!-- compile useful notes, code samples, ideas from the comments here -->
 
-## Specifics
+## References <!--(optional)-->
 
-<!-- Include any details of what you'd like this WC to include -->
-
-
-## Notes (optional)
-
-<!-- (optional) compile useful notes from the comments here -->
-
-
-## References (optional)
-
-<!-- add links to any relevant references here
-
+<!--
 - [link-name](linkurl) - link description
-
 -->
