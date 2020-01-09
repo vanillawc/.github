@@ -1,32 +1,24 @@
 ---
 name: Task
-about: Track the work progress of a specific task
+about: Track the work progress of an org-wide task
 title: ''
 labels: task
 assignees: ''
-
 ---
-
-## Description
-
-<!-- describe the task this ticket was created to track -->
+<!-- briefly describe the task -->
 
 ## Checklist
 
-<!-- list the requirements that need to be addressed to complete this task
-
+<!--
 - [ ] example requirement
-
 -->
 
-## Notes (optional)
+## Notes <!--(optional)-->
 
-<!-- (optional) compile useful notes from the comments here -->
+<!-- compile useful notes, code samples, ideas from the comments here -->
 
-## References (optional)
+## References <!--(optional)-->
 
-<!-- add links to any relevant references here
-
+<!--
 - [link-name](linkurl) - link description
-
 -->
