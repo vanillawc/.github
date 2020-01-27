@@ -14,6 +14,7 @@
     "wc-codemirror": "vanillawc/wc-codemirror#^1.0.0",
     "wc-csv-table": "vanillawc/wc-csv-table#^1.0.0",
     "wc-demo": "vanillawc/wc-demo#^1.0.0",
+    "wc-icon-rule": "vanillawc/wc-icon-rule#^1.0.0",
     "wc-include": "vanillawc/wc-include#^1.0.0",
     "wc-markdown": "vanillawc/wc-markdown#^1.0.0",
     "wc-marquee": "vanillawc/wc-marquee#^1.0.0",

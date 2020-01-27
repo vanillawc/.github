@@ -16,6 +16,7 @@ If the criticisms of the WC v1 specification are true, that the API to develop v
 - [WC-CSV-Table][] - Create a table element from CSV data
 - [WC-CodeMirror][] - Easily embed a CodeMirror editor
 - [WC-Demo][] - An web component for demoing other web components
+- [WC-Icon-Rule][] - A spicy horizontal rule 
 - [WC-Include][] - Import HTML from an external file
 - [WC-Markdown][] - Embed Markdown with optional syntax highlighting
 - [WC-Marquee][] - A clone of the classic `<marquee>` element
@@ -30,6 +31,7 @@ If the criticisms of the WC v1 specification are true, that the API to develop v
 [WC-CodeMirror]: https://github.com/vanillawc/wc-codemirror
 [WC-CSV-Table]: https://github.com/vanillawc/wc-csv-table
 [WC-Demo]: https://github.com/vanillawc/wc-demo
+[WC-Icon-Rule]: https://github.com/vanillawc/wc-icon-rule
 [WC-Include]: https://github.com/vanillawc/wc-include
 [WC-Markdown]: https://github.com/vanillawc/wc-markdown
 [WC-Marquee]: https://github.com/vanillawc/wc-marquee
