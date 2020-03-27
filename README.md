@@ -7,7 +7,7 @@ Welcome to the vanilla Web Components (WC) organization. This is a collective of
 
 That means: no extra layers of abstraction between the WC spec and the implementations here; no extra dependencies to track, maintain, update; no extra build steps to develop.
 
-If the criticisms of the WC v1 specification are true, that the API to develop vanilla WC is 'too low level', then this group exists to get low level and see what it's all about.
+If the criticisms of the WC standard are really true, that the API to develop vanilla WC is 'too low level', then this group exists to get low level and see what it's all about.
 
 ## Components
 
@@ -75,22 +75,32 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 [ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
 [Web Component Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
 
+## Other Web Component Collections
+
+- [ELMS Learning Network][] - By Penn State
+- [Lion][] - By ING Bank
+- [Patternfly Elements][] - By RedHat
+- [BulibWC][] - By Boston University
+
+[ELMS Learning Network]: https://github.com/elmsln/elmsln
+[Lion]: https://github.com/ing-bank/lion/
+[Patternfly Elements]: https://github.com/patternfly/patternfly-elements
+[BulibWC]: https://github.com/bulib/bulib-wc
+
 ## Resources
 
-- [Building Web Components with Vanilla Javascript][]: A primer on building vanilla web components by Ali Spittel
-- [Web Components Interoperability Lab][]: Demonstrations of how Web Components can be integrated with common frameworks
-- [Custom Elements Everywhere][]: Framework compatibility with standard Web Components
-- [Web Components: From Zero to Hero][]: An introduction to writing raw Web Components
-- [WebComponents.org][] - Community resource for finding and learning about Web Components
-- [Web Components The Right Way][] - Awesome list of Web Component resources.
-- [Open-WC.org][] - Set of defaults and recommendations to get started writing Web Components, anything from linting, testing, building, automating and demoing.
+- [Web Components Interoperability Lab][] - Interoperability demos for integrating Web Components with frameworks
+- [Custom Elements Everywhere][] - Framework compatibility with standard Web Components
+- [Web Components: From Zero to Hero][] - An introduction to writing standard Web Components
+- [Web Components The Right Way][] - Awesome list of Web Component resources
+- [WebComponents.org][] - Community directory of published Web Components and Web Component Collections
+- [Open-WC.org][] - Guidance and tooling for working with LitElement Web Components
 
-[Building Web Components with Vanilla Javascript]: https://dev.to/aspittel/building-web-components-with-vanilla-javascript--jho
 [Web Components Interoperability Lab]: https://glitch.com/@sergicontre/web-components-interoperability-lab
 [Custom Elements Everywhere]: https://custom-elements-everywhere.com/
 [Web Components: From Zero to Hero]: https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m
-[WebComponents.org]: https://www.webcomponents.org/
 [Web Components The Right Way]: https://github.com/mateusortiz/webcomponents-the-right-way
+[WebComponents.org]: https://www.webcomponents.org/
 [Open-WC.org]: https://www.open-wc.org
 
 ## Licenses
