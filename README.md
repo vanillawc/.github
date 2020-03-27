@@ -77,11 +77,13 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 
 ## Other Web Component Collections
 
+- [Spectrum Web Components][] - By Adobe
 - [ELMS Learning Network][] - By Penn State
 - [Lion][] - By ING Bank
 - [Patternfly Elements][] - By RedHat
 - [BulibWC][] - By Boston University
 
+[Spectrum Web Components]: https://github.com/adobe/spectrum-web-components
 [ELMS Learning Network]: https://github.com/elmsln/elmsln
 [Lion]: https://github.com/ing-bank/lion/
 [Patternfly Elements]: https://github.com/patternfly/patternfly-elements
