@@ -30,7 +30,7 @@ To start the server run `npm start` from the command line.
 The most straight-forward way to interact with the playground is to
 
 - start the server with `npm start`
-- open your preferred browser and navigate to `http://127.0.0.1`
+- open your preferred browser and navigate to `http://127.0.0.1:5500/dev/`
 
 ### Debugging [VSCode + Chrome]
 
@@ -40,18 +40,18 @@ To start live debugging in Chrome
 
 - start the server with `npm start`
 - open the 'Debug' tab in VSCode
-- run 'Open in Chrome'
-- interact with the web component inside of Chrome
-- stopping the debugger will close Chrome
+- run the 'Chrome' configuration
+- Chrome will open a tab that with the debugger attached
+- stopping the debugger will close the Chrome tab
 
 ### Debugging [VSCode + Browser Preview]
 
-'Browser Preview' is a VSCode plugin that opens a browser tab inside of VSCode. If you have this plugin installed, then you can live debug from within this window.
+'Browser Preview' is a VSCode plugin that opens a browser tab inside of VSCode. If you have this plugin installed, this config attaches a debugging context to the browser tab.
 
 To start live debugging in Browser Preview
 
 - start the server with `npm start`
 - open the 'Debug' tab in VSCode
-- Run 'Browser Preview'
+- run 'Browser Preview' configuration
 - interact with the web component in the Browser Preview Tab
 - stopping the debugger will close Browser Preview
