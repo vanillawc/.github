@@ -7,8 +7,9 @@ labels: task
 
 ## Checklist
 
-- [ ] wc-blink
+- [ ] wc-arrow
 - [ ] wc-bullet-chain
+- [ ] wc-code
 - [ ] wc-codemirror
 - [ ] wc-csv-table
 - [ ] wc-demo
