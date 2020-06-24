@@ -11,6 +11,7 @@ If the criticisms of the WC standard are really true, that the API to develop va
 
 ## Components
 
+- [WC-Arrow][] - A web component for creating custom arrow HTML elements
 - [WC-Blink][] - A clone of the classic `<blink>` element
 - [WC-Bullet-Chain][] - A list with a fancy custom decorator
 - [WC-CSV-Table][] - Create a table element from CSV data
@@ -26,6 +27,7 @@ If the criticisms of the WC standard are really true, that the API to develop va
 - [WC-Sortable-Table][] - A table element that sorts when a header is clicked
 - [WC-Template][] - HTML templating using tagged template literals
 
+[WC-Arrow]: https://github.com/vanillawc/wc-arrow
 [WC-Blink]: https://github.com/vanillawc/wc-blink
 [WC-Bullet-Chain]: https://github.com/vanillawc/wc-bullet-chain
 [WC-CodeMirror]: https://github.com/vanillawc/wc-codemirror
