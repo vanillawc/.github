@@ -16,7 +16,7 @@ If the criticisms of the WC standard are really true, that the API to develop va
 - [WC-Bullet-Chain][] - A list with a fancy custom decorator
 - [WC-CSV-Table][] - Create a table element from CSV data
 - [WC-CodeMirror][] - Easily embed a CodeMirror editor
-- [WC-Date-Picker][] - A web component that wraps a text input element and adds date-picker functionality to it
+- [WC-DatePicker][] - A web component that wraps a text input element and adds date-picker functionality to it
 - [WC-Demo][] - An web component for demoing other web components
 - [WC-Icon-Rule][] - A spicy horizontal rule 
 - [WC-Include][] - Import HTML from an external file
@@ -34,7 +34,7 @@ If the criticisms of the WC standard are really true, that the API to develop va
 [WC-Bullet-Chain]: https://github.com/vanillawc/wc-bullet-chain
 [WC-CodeMirror]: https://github.com/vanillawc/wc-codemirror
 [WC-CSV-Table]: https://github.com/vanillawc/wc-csv-table
-[WC-Date-Picker]: https://github.com/vanillawc/wc-datepicker
+[WC-DatePicker]: https://github.com/vanillawc/wc-datepicker
 [WC-Demo]: https://github.com/vanillawc/wc-demo
 [WC-Icon-Rule]: https://github.com/vanillawc/wc-icon-rule
 [WC-Include]: https://github.com/vanillawc/wc-include
