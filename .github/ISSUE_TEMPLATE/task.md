@@ -8,15 +8,18 @@ labels: task
 ## Checklist
 
 - [ ] wc-arrow
+- [ ] wc-blink
 - [ ] wc-bullet-chain
 - [ ] wc-code
 - [ ] wc-codemirror
 - [ ] wc-csv-table
+- [ ] wc-datepicker
 - [ ] wc-demo
 - [ ] wc-icon-rule
 - [ ] wc-include
 - [ ] wc-markdown
 - [ ] wc-marquee
+- [ ] wc-menu-wrapper
 - [ ] wc-monaco-editor
 - [ ] wc-resume
 - [ ] wc-social-link
