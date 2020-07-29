@@ -14,17 +14,21 @@ If the criticisms of the WC standard are really true, that the API to develop va
 - [WC-Arrow][] - A web component for creating custom arrow HTML elements
 - [WC-Blink][] - A clone of the classic `<blink>` element
 - [WC-Bullet-Chain][] - A list with a fancy custom decorator
-- [WC-CSV-Table][] - Create a table element from CSV data
+- [WC-Carousel-Lite][] - A web component that wraps HTML elements and forms a horizontal carousel slider
+- [WC-Code][] - run code in the browser, disclaimer : this repo is too awesome
 - [WC-CodeMirror][] - Easily embed a CodeMirror editor
+- [WC-CSV-Table][] - Create a table element from CSV data
 - [WC-DatePicker][] - A web component that wraps a text input element and adds date-picker functionality to it
 - [WC-Demo][] - An web component for demoing other web components
 - [WC-Icon-Rule][] - A spicy horizontal rule 
 - [WC-Include][] - Import HTML from an external file
+- [WC-JSON][] - Graphical view of a json object
 - [WC-Markdown][] - Embed Markdown with optional syntax highlighting
 - [WC-Marquee][] - A clone of the classic `<marquee>` element
 - [WC-Menu-Wrapper][] - A web component that wraps HTML elements and forms a drop-down menu out of them
 - [WC-Monaco-Editor][] - Easily embed VSCode's Monaco editor
 - [WC-Resume][] - Embed `resume.json` content styled with a template
+- [WC-Router][] - go up, go down, now turn left, nope its not there
 - [WC-Social-Link][] - Add links to social profiles the easy way
 - [WC-Sortable-Table][] - A table element that sorts when a header is clicked
 - [WC-Template][] - HTML templating using tagged template literals
@@ -32,17 +36,21 @@ If the criticisms of the WC standard are really true, that the API to develop va
 [WC-Arrow]: https://github.com/vanillawc/wc-arrow
 [WC-Blink]: https://github.com/vanillawc/wc-blink
 [WC-Bullet-Chain]: https://github.com/vanillawc/wc-bullet-chain
+[WC-Carousel-Lite]: https://github.com/vanillawc/wc-carousel-lite
+[WC-Code]: https://github.com/vanillawc/wc-code
 [WC-CodeMirror]: https://github.com/vanillawc/wc-codemirror
 [WC-CSV-Table]: https://github.com/vanillawc/wc-csv-table
 [WC-DatePicker]: https://github.com/vanillawc/wc-datepicker
 [WC-Demo]: https://github.com/vanillawc/wc-demo
 [WC-Icon-Rule]: https://github.com/vanillawc/wc-icon-rule
 [WC-Include]: https://github.com/vanillawc/wc-include
+[WC-JSON]: https://github.com/vanillawc/wc-json
 [WC-Markdown]: https://github.com/vanillawc/wc-markdown
 [WC-Marquee]: https://github.com/vanillawc/wc-marquee
 [WC-Menu-Wrapper]: https://github.com/vanillawc/wc-menu-wrapper
 [WC-Monaco-Editor]: https://github.com/vanillawc/wc-monaco-editor
 [WC-Resume]: https://github.com/vanillawc/wc-resume
+[WC-Router]: https://github.com/vanillawc/wc-router
 [WC-Social-Link]: https://github.com/vanillawc/wc-social-link
 [WC-Sortable-Table]: https://github.com/vanillawc/wc-sortable-table
 [WC-Template]: https://github.com/vanillawc/wc-template
