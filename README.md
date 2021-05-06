@@ -91,12 +91,14 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 
 ## Other Web Component Collections
 
+- [GitHub Elements][] - By GitHub
 - [Spectrum Web Components][] - By Adobe
 - [ELMS Learning Network][] - By Penn State
 - [Lion][] - By ING Bank
 - [Patternfly Elements][] - By RedHat
 - [BulibWC][] - By Boston University
 
+[GitHub Elements]: https://github.com/github/github-elements
 [Spectrum Web Components]: https://github.com/adobe/spectrum-web-components
 [ELMS Learning Network]: https://github.com/elmsln/elmsln
 [Lion]: https://github.com/ing-bank/lion/
@@ -105,7 +107,7 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 
 ## Resources
 
-- [Web Components Interoperability Lab][] - Interoperability demos for integrating Web Components with frameworks
+- [Web Components Interoperability Lab][] - Demos for integrating Web Components with frameworks
 - [Custom Elements Everywhere][] - Framework compatibility with standard Web Components
 - [Web Components: From Zero to Hero][] - An introduction to writing standard Web Components
 - [Web Components The Right Way][] - Awesome list of Web Component resources
