@@ -10,6 +10,7 @@ labels: task
 - [ ] wc-arrow
 - [ ] wc-blink
 - [ ] wc-bullet-chain
+- [ ] wc-carousel-lite
 - [ ] wc-code
 - [ ] wc-codemirror
 - [ ] wc-csv-table
