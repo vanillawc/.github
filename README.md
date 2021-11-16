@@ -105,8 +105,14 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 [Patternfly Elements]: https://github.com/patternfly/patternfly-elements
 [BulibWC]: https://github.com/bulib/bulib-wc
 
+## Case Studies
+
+- 
+
 ## Resources
 
+- [Custom Elements][] - All about HTML Custom Elements
+- [Mighty Morphin' Web Components][] - Components as a replacement for Atomic CSS
 - [Web Components Interoperability Lab][] - Demos for integrating Web Components with frameworks
 - [Custom Elements Everywhere][] - Framework compatibility with standard Web Components
 - [Web Components: From Zero to Hero][] - An introduction to writing standard Web Components
@@ -114,6 +120,8 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 - [WebComponents.org][] - Community directory of published Web Components and Web Component Collections
 - [Open-WC.org][] - Guidance and tooling for working with LitElement Web Components
 
+[Custom Elements]: https://github.com/shawnbot/custom-elements
+[Mighty Morphin' Web Components]: https://cloudfour.com/thinks/mighty-morphin-web-components/
 [Web Components Interoperability Lab]: https://glitch.com/@sergicontre/web-components-interoperability-lab
 [Custom Elements Everywhere]: https://custom-elements-everywhere.com/
 [Web Components: From Zero to Hero]: https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m
