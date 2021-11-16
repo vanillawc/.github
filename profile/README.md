@@ -89,6 +89,25 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 [ad hominem]: https://en.wikipedia.org/wiki/Ad_hominem
 [Web Component Best Practices]: https://developers.google.com/web/fundamentals/web-components/best-practices
 
+## Communities
+
+- [WebComponents-CG - W3C][]
+- [WebComponents.org][]
+- [Open-WC.org][]
+
+
+[WebComponents-CG - W3C]: https://github.com/w3c/webcomponents-cg
+[WebComponents.org]: https://www.webcomponents.org/
+[Open-WC.org]: https://open-wc.org/
+
+## Case Studies
+
+- [How we use Web Components at GitHub][]
+- [Faster Integration with Web Components - CloudFour][]
+
+[How we use Web Components at GitHub]: https://github.blog/2021-05-04-how-we-use-web-components-at-github/
+[Faster Integration with Web Components - CloudFour]: https://cloudfour.com/thinks/faster-integration-with-web-components/
+
 ## Other Web Component Collections
 
 - [GitHub Elements][] - By GitHub
@@ -105,29 +124,25 @@ If you have a suggestion or would just like to spark a discussion about WC. Crea
 [Patternfly Elements]: https://github.com/patternfly/patternfly-elements
 [BulibWC]: https://github.com/bulib/bulib-wc
 
-## Case Studies
-
-- 
-
 ## Resources
 
+- [Web Components - MDN][]
+- [Are Web Components a Thing Yet?][]
 - [Custom Elements][] - All about HTML Custom Elements
 - [Mighty Morphin' Web Components][] - Components as a replacement for Atomic CSS
 - [Web Components Interoperability Lab][] - Demos for integrating Web Components with frameworks
 - [Custom Elements Everywhere][] - Framework compatibility with standard Web Components
 - [Web Components: From Zero to Hero][] - An introduction to writing standard Web Components
 - [Web Components The Right Way][] - Awesome list of Web Component resources
-- [WebComponents.org][] - Community directory of published Web Components and Web Component Collections
-- [Open-WC.org][] - Guidance and tooling for working with LitElement Web Components
 
+[Web Components - MDN]: https://developer.mozilla.org/en-US/docs/Web/Web_Components
+[Are Web Components a Thing Yet?]: https://arewebcomponentsathingyet.com/
 [Custom Elements]: https://github.com/shawnbot/custom-elements
 [Mighty Morphin' Web Components]: https://cloudfour.com/thinks/mighty-morphin-web-components/
 [Web Components Interoperability Lab]: https://glitch.com/@sergicontre/web-components-interoperability-lab
 [Custom Elements Everywhere]: https://custom-elements-everywhere.com/
 [Web Components: From Zero to Hero]: https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m
 [Web Components The Right Way]: https://github.com/mateusortiz/webcomponents-the-right-way
-[WebComponents.org]: https://www.webcomponents.org/
-[Open-WC.org]: https://www.open-wc.org
 
 ## Licenses
 
